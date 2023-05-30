@@ -12,7 +12,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Overview
 
-I organized a way of how to do this in my mind and I tried to start from there, I researched a little about how to make some parts and in the end it was like this.
+A Frontend Mentor project to replicate a given design with only CSS and HTML.
 
 ### Screenshot
 
